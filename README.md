@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ibrahim Abdullah</h1>
 <h3 align="center">A passionate developer from Bangladesh. Exploring new thing is my habit. Currently pursuing Bachelor degree in Computer Science.</h3>
-
+<br><br>
+<img align="right" alt="Coding" width="300" height="400" src="https://i.gifer.com/3Ayb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim3761&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim3761" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ibrahim376146" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahim376146?logo=twitter&style=for-the-badge" alt="ibrahim376146" /></a> </p>
