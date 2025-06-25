@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ibrahim Abdullah</h1>
 <h3 align="center">A passionate web app developer. Exploring new thing is my habit. Currently pursuing Bachelor degree in Computer Science.</h3>
 <br><br>
-<img align="centre" alt="Coding" width="1200" height="400" src="banner.jpg">
+<img align="centre" alt="Coding" width="1200" height="450" src="banner2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim3761&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim3761" /> </p>
 
