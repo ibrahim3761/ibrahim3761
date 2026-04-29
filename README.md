@@ -12,7 +12,7 @@
 - 📫 How to reach me **mdibrahimabdullah1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" display="flex">
 <a href="https://twitter.com/ibrahim376146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim376146" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-ibrahim-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-ibrahim-abdullah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/c231183_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c231183_ibrahim" height="30" width="40" /></a>
